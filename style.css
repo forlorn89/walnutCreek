@@ -1,0 +1,96 @@
+body {
+    margin-top: 40px;
+}
+
+.fixed-top {
+    height: 100px;
+}
+
+img.logo {
+    width: 161px;
+    height: 64px;
+}
+
+
+.btn-outline-success {
+    color: #36F892;
+    border-color: #36F892;
+}
+
+.form-control {
+    color: #36F892;
+    border-color: #36F892;
+}
+
+.jumbotron {
+    height: auto;
+    background-color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.w-100 {
+    height: 400px;
+}
+
+img.pic-flag,
+img.pic-health,
+img.pic-city {
+    float: left;
+    height: 100px;
+    margin: 10px;
+
+}
+
+h1 {
+    padding-top: 50px;
+    padding-bottom: 36px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bolder;
+
+
+}
+
+
+
+h4 {
+
+    padding-bottom: 25px;
+    font-size: 24px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+
+}
+
+.icons {
+    width: 100%;
+    height: 164px;
+}
+
+.footer-center {
+    text-align: center;
+}
+
+.footer-info {
+    display: inline-block;
+    padding: 10px;
+    margin: 30px;
+
+}
+
+.p-block {
+    display: block;
+    margin: 0 auto;
+    line-height: 0.5rem;
+}
+
+.last-sec {
+    border-top: 2px solid rgb(10, 10, 10);
+}
+
+.container {
+    margin: 0 auto;
+ padding: 0;
+ margin-top: 131px;
+
+}
